@@ -28,5 +28,5 @@ Here is a quick overview:
 5) The final prediction is to be the stock price "future offset" days away (another variable that can be adjusted). I have tried a number of architectures. Mostly RNNs.
 6) To be real fancy, the data is saved in an excel spreadsheet. I don't know why, as I never look at the spreadsheets.
 
-
+I would be really excited to have other people take a crack at the code. Only condition is that you loop me in to what you are doing, so we can get rich together.
 
