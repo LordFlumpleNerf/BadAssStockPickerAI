@@ -30,3 +30,5 @@ Here is a quick overview:
 
 I would be really excited to have other people take a crack at the code. Only condition is that you loop me in to what you are doing, so we can get rich together.
 
+BE CAREFUL WITH SIZE! ADJUST NUMBER OF SELECTIONS, SAMPLE_SIZE, AND OTHER PARAMETERS WHEN TESTING.
+
